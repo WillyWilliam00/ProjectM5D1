@@ -1,7 +1,7 @@
 Fornisci una risposta alle seguenti domande. Troverai le risposte corrette in fondo!
 
 Cos’è ReactJS? (risposta aperta)
-
+react è una libreria open-source fondata da Meta, adatta per creare interfacce utente veloci riutilizzabili
 
 
 
